@@ -1,4 +1,4 @@
-### Perojeto Sistema de Cadstro
+### Perojeto Sistema de Cadastro
 
 Meu primeiro sistema deselvolvido com Streamlit!
 
